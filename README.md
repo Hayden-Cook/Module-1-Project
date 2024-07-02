@@ -16,6 +16,10 @@ https://bootcampspot.instructure.com/courses/5981/pages/3-dot-1-6-complete-the-g
 MDN: HTML elements reference
 https://developer.mozilla.org/en-US/docs/Web/HTML/Element
 
+## Screenshot
+
+## Deployment Link
+
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
 
