@@ -17,6 +17,7 @@ MDN: HTML elements reference
 https://developer.mozilla.org/en-US/docs/Web/HTML/Element
 
 ## Screenshot
+![Horiseon Screenshot](https://github.com/Hayden-Cook/Module-1-Project/assets/166083664/07ff5fab-5b7f-403e-919f-e6347dc9c9ca)
 
 ## Deployment Link
 
